@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Helpers/TitleBar.qml</file>
+        <file>Components/GlobalLable.qml</file>
+        <file>Properties/GlobalProperty.qml</file>
+        <file>Styles/Theme.qml</file>
+        <file>Styles/qmldir</file>
+        <file>Helpers/StackViewHelper.qml</file>
+        <file>Components/SButton.qml</file>
+        <file>Resources/Icons/Logo/appicon.jpg</file>
+        <file>Screens/SoccerPlayScreen.qml</file>
+        <file>Screens/LoginTextArea.qml</file>
+        <file>Screens/LoginView.qml</file>
+        <file>Resources/Icons/login/input.png</file>
+        <file>Resources/Icons/login/login_hover_button.png</file>
+        <file>Resources/Icons/login/login_normal_button.png</file>
+        <file>Resources/Icons/login/login_pressed_button.png</file>
+        <file>Resources/Icons/login/warning_icon.png</file>
+        <file>Resources/Icons/login/warning_input.png</file>
+        <file>Components/MenuButton.qml</file>
+        <file>Resources/Icons/Background/dashboard.jpg</file>
+        <file>Screens/HomePage.qml</file>
+    </qresource>
+</RCC>
