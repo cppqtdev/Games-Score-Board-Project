@@ -21,5 +21,32 @@
         <file>Components/MenuButton.qml</file>
         <file>Resources/Icons/Background/dashboard.jpg</file>
         <file>Screens/HomePage.qml</file>
+        <file>Screens/SupportScreen.qml</file>
+        <file>Screens/SettingsScreen.qml</file>
+        <file>Screens/AboutScreen.qml</file>
+        <file>Screens/NewGameScreen.qml</file>
+        <file>Screens/UserSettings.qml</file>
+        <file>Screens/GameSettings.qml</file>
+        <file>Screens/ThemeSettings.qml</file>
+        <file>Screens/HomeSettings.qml</file>
+        <file>Screens/BrightnessSettings.qml</file>
+        <file>Screens/SavedGame.qml</file>
+        <file>Resources/Icons/title/circle-info-solid.svg</file>
+        <file>Resources/Icons/title/house-user-solid.svg</file>
+        <file>Resources/Icons/title/pencil-solid.svg</file>
+        <file>Resources/Icons/title/fingerprint-solid.svg</file>
+        <file>Drawer/DrawerItem.qml</file>
+        <file>Drawer/PageDrawer.qml</file>
+        <file>Drawer/SvgImage.qml</file>
+        <file>Resources/Icons/DrawerIcons/bug-solid.svg</file>
+        <file>Resources/Icons/DrawerIcons/cash-register-solid.svg</file>
+        <file>Resources/Icons/DrawerIcons/chart-line-solid.svg</file>
+        <file>Resources/Icons/DrawerIcons/house-user-solid.svg</file>
+        <file>Resources/Icons/DrawerIcons/mobile-screen-solid.svg</file>
+        <file>Resources/Icons/DrawerIcons/sliders-solid.svg</file>
+        <file>Resources/Icons/DrawerIcons/star-half-stroke-solid.svg</file>
+        <file>Models/DrawerListModel.qml</file>
+        <file>Properties/qmldir</file>
+        <file>Resources/Icons/title/arrow-left.png</file>
     </qresource>
 </RCC>

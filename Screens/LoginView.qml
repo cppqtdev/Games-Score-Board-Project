@@ -6,6 +6,7 @@ import QtQuick.Controls.Styles 1.4
 import "./"
 import "../Components"
 import "../Helpers"
+import "../Properties"
 Rectangle {
     id: loginView
     objectName: "loginView"
@@ -119,6 +120,7 @@ Rectangle {
 
                         if (login) {
                             logedIn();
+                            P.isUserLogin = true
                             gstack.push("qrc:/Screens/HomePage.qml")
                         }
                     }

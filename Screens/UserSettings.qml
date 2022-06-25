@@ -1,3 +1,4 @@
+
 import QtQuick 2.0
 import QtQuick.Controls 2.5
 import QtQuick.Layouts 1.3
@@ -16,7 +17,7 @@ Item {
             }
 
             Text{
-                text: qsTr("PLAY SCREEN")
+                text: qsTr("USER SETTINGS")
                 color:Theme.textColor
                 font.pixelSize: 18
                 font.bold:true

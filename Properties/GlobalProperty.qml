@@ -1,8 +1,7 @@
+pragma Singleton
 import QtQuick 2.0
+import "../Styles"
 QtObject {
-      id: attributes
-      property string name
-      property int size
-      property variant attributes
+    property bool isUserLogin: false
   }
 

@@ -16,7 +16,7 @@ Item {
             }
 
             Text{
-                text: qsTr("PLAY SCREEN")
+                text: qsTr("MENU")
                 color:Theme.textColor
                 font.pixelSize: 18
                 font.bold:true

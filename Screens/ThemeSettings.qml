@@ -16,7 +16,7 @@ Item {
             }
 
             Text{
-                text: qsTr("PLAY SCREEN")
+                text: qsTr("THEME SETTINGS")
                 color:Theme.textColor
                 font.pixelSize: 18
                 font.bold:true
@@ -60,4 +60,9 @@ Item {
 
         }
     }
+}
+import QtQuick 2.0
+
+Item {
+
 }

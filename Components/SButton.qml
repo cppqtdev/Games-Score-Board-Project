@@ -11,6 +11,16 @@ Button {
     property real buttonHeight: 37
     property real buttonRadius:3
     property string buttonText:"Button"
+    property string icons: ""
+    property real iconWidth: 30
+    property real iconHeight: 30
+
+    Image{
+        anchors.centerIn: parent
+        source: icons
+        width: iconWidth
+        height: iconHeight
+    }
 
     text: buttonText
     contentItem: Text {

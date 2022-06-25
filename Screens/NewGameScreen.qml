@@ -4,6 +4,7 @@ import QtQuick.Layouts 1.3
 import "../Components"
 import "../Styles"
 Item {
+    anchors.fill: parent
     Rectangle{
         color: Theme.backgroundColor
         anchors.fill: parent
@@ -16,7 +17,7 @@ Item {
             }
 
             Text{
-                text: qsTr("PLAY SCREEN")
+                text: qsTr("NEW GAME SCREEN")
                 color:Theme.textColor
                 font.pixelSize: 18
                 font.bold:true
