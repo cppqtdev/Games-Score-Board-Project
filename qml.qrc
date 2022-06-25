@@ -48,5 +48,6 @@
         <file>Models/DrawerListModel.qml</file>
         <file>Properties/qmldir</file>
         <file>Resources/Icons/title/arrow-left.png</file>
+        <file>Components/STextField.qml</file>
     </qresource>
 </RCC>

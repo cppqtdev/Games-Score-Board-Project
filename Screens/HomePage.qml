@@ -129,9 +129,9 @@ Item {
                     buttonWidth: 150
                     buttonHeight: 100
                     buttonRadius:12
-                    buttonText:"Home"
+                    buttonText:"Soccer Game"
                     onClicked: {
-                        gstack.push("qrc:/Screens/HomeSettings.qml",{"gTitle":"Home Settings"})
+                        gstack.push("qrc:/Screens/SoccerPlayScreen.qml",{"gTitle":"Home Settings"})
                     }
 
                 }
