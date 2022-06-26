@@ -4,7 +4,6 @@ import QtQuick.Layouts 1.3
 import "../Components"
 import "../Styles"
 Item {
-    anchors.fill: parent
     Rectangle{
         color: Theme.backgroundColor
         anchors.fill: parent
